@@ -12,7 +12,7 @@ A universal image grabber userscript based on Tampermonkey.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/version-15.0-blue" />
+<img src="https://img.shields.io/badge/version-15.1-blue" />
 <img src="https://img.shields.io/github/stars/AllureLove98/picture-taking?style=flat" />
 <img src="https://img.shields.io/github/forks/AllureLove98/picture-taking?style=flat" />
 <img src="https://img.shields.io/github/license/AllureLove98/picture-taking" />
