@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         📸 图片抓取器 (Picture Taking)
 // @namespace    https://github.com/AllureLove98/picture-taking
-// @version      15.0
+// @version      15.1
 // @description  全页面图片扫描 | 增量抓取 | 一键复制 | 面板记忆 | UI 磁吸靠边
 // @author       Ryota_Aoik
 //
