@@ -1,12 +1,24 @@
 // ==UserScript==
-// @name         图片抓取器
-// @namespace    http://tampermonkey.net/
+// @name         📸 图片抓取器 (Picture Taking)
+// @namespace    https://github.com/AllureLove98/picture-taking
 // @version      15.0
-// @description  支持面板拉伸记忆、磁吸靠边、一键复制
+// @description  全页面图片扫描 | 增量抓取 | 一键复制 | 面板记忆 | UI 磁吸靠边
 // @author       Ryota_Aoik
-// @match        *://*/*
-// @grant        none
+//
+// @license      MIT
+//
+// @match        http://*/*
+// @match        https://*/*
+//
+// @icon         https://cdn-icons-png.flaticon.com/512/837/837448.png
+//
+// @downloadURL  https://update.greasyfork.org/scripts/567730/%E5%9B%BE%E7%89%87%E6%8A%93%E5%8F%96%E5%99%A8.user.js
+// @updateURL    https://update.greasyfork.org/scripts/567730/%E5%9B%BE%E7%89%87%E6%8A%93%E5%8F%96%E5%99%A8.meta.js
+//
+// @supportURL   https://github.com/AllureLove98/picture-taking/issues
+//
 // @run-at       document-end
+// @grant        none
 // ==/UserScript==
 
 (function() {
@@ -263,3 +275,38 @@
     });
 
 })();
+
+// ===============================================
+// 📌 Picture Taking — 脚本说明
+// ===============================================
+//
+// 📍 功能
+// ✔ 全页面图片抓取 (IMG / VIDEO poster / background-image)
+// ✔ 支持 ::before / ::after 背景提取
+// ✔ 增量扫描 — 不重复抓取
+// ✔ 列表去重
+// ✔ 一键复制全部链接
+// ✔ 单条复制
+//
+// 📍 UI
+// ✔ 面板大小记忆
+// ✔ 面板位置记忆
+// ✔ 悬浮按钮磁吸靠边
+// ✔ 点击图片可打开
+//
+// 📍 安全性
+// ✔ 无数据上传
+// ✔ 纯前端执行
+// ✔ 不影响网页正常功能
+//
+// 📍 推荐扩展
+// 🔹 Tampermonkey
+// 🔹 Violentmonkey
+//
+// 📍 支持网站环境
+// 🌐 兼容绝大多数常规网页
+//
+// 📍 发布反馈
+// 🔗 https://github.com/AllureLove98/picture-taking/issues
+//
+// ===============================================
