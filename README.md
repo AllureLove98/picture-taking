@@ -5,6 +5,27 @@
 
 ---
 
+## 🚀 Quick Install
+
+### ✅ 一键安装（推荐）
+
+👉 **[点击这里自动安装脚本](https://github.com/AllureLove98/picture-taking/raw/refs/heads/main/picture-taking.user.js)**
+
+> 需要已安装 Tampermonkey / Violentmonkey 扩展  
+> 点击后浏览器会自动弹出安装界面
+
+---
+
+## 🏠 GitHub Repository
+
+📦 项目地址：
+
+👉 https://github.com/AllureLove98/picture-taking
+
+欢迎 Star ⭐
+
+---
+
 ## ✨ Features
 
 - 🔍 全页面图片扫描
@@ -23,17 +44,19 @@
 
 ### 1️⃣ 安装浏览器扩展
 
-- Chrome / Edge：Tampermonkey  
-- Firefox：Tampermonkey 或 Violentmonkey  
+| 浏览器 | 扩展 |
+|--------|------|
+| Chrome / Edge | Tampermonkey |
+| Firefox | Tampermonkey / Violentmonkey |
 
-### 2️⃣ 安装脚本
+---
+
+### 2️⃣ 手动安装
 
 1. 打开 Tampermonkey
 2. 新建脚本
 3. 粘贴 `.user.js` 文件内容
 4. 保存
-
-完成。
 
 ---
 
